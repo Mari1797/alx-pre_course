@@ -1,1 +1,1 @@
-My first directory
+updating my readme
